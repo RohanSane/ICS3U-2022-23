@@ -194,7 +194,7 @@ public class DoubleArraySequence implements Cloneable {
 
       else{
       
-      if (currentIndex == manyItems){
+      if(currentIndex == manyItems){
          currentIndex = 0;
       }
 
